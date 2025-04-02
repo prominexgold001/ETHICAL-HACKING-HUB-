@@ -1,0 +1,77 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ethical Hacking Hub</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; }
+        header { background: #222; color: #fff; padding: 15px; text-align: center; }
+        nav { text-align: center; padding: 10px; background: #333; }
+        nav a { margin: 0 15px; text-decoration: none; color: #fff; font-weight: bold; padding: 10px; display: inline-block; }
+        .container { padding: 20px; max-width: 1200px; margin: auto; }
+        .section { background: #fff; padding: 20px; margin: 10px 0; border-radius: 5px; }
+        footer { text-align: center; padding: 10px; background: #222; color: #fff; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ethical Hacking Hub</h1>
+        <p>Your go-to source for Cybersecurity & Ethical Hacking</p>
+    </header><nav>
+    <a href="#home">Home</a>
+    <a href="#blog">Blog</a>
+    <a href="#courses">Courses</a>
+    <a href="#resources">Resources</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<div class="container">
+    <div id="home" class="section">
+        <h2>Welcome to Ethical Hacking Hub</h2>
+        <p>Stay updated with the latest cybersecurity trends, ethical hacking tutorials, and free courses.</p>
+    </div>
+    
+    <div id="blog" class="section">
+        <h2>Blog</h2>
+        <p>Read our latest posts on penetration testing, security tools, and ethical hacking techniques.</p>
+        <ul>
+            <li><a href="#">How to Get Started with Ethical Hacking</a></li>
+            <li><a href="#">Top 10 Cybersecurity Tools</a></li>
+            <li><a href="#">Understanding Network Security</a></li>
+        </ul>
+    </div>
+    
+    <div id="courses" class="section">
+        <h2>Courses</h2>
+        <p>Start learning Ethical Hacking with our free beginner-friendly tutorials.</p>
+        <ul>
+            <li><a href="#">Introduction to Ethical Hacking</a></li>
+            <li><a href="#">Penetration Testing Basics</a></li>
+            <li><a href="#">Network Security Fundamentals</a></li>
+        </ul>
+    </div>
+    
+    <div id="resources" class="section">
+        <h2>Resources</h2>
+        <p>Explore cybersecurity tools, guides, and cheat sheets.</p>
+        <ul>
+            <li><a href="#">Best Free Cybersecurity Tools</a></li>
+            <li><a href="#">Cheat Sheets for Ethical Hackers</a></li>
+            <li><a href="#">Cybersecurity News & Updates</a></li>
+        </ul>
+    </div>
+    
+    <div id="contact" class="section">
+        <h2>Contact Us</h2>
+        <p>Have questions? Reach out to us for collaboration or inquiries.</p>
+        <p>Email: <a href="mailto:contact@ethicalhackinghub.com">contact@ethicalhackinghub.com</a></p>
+        <p>Join our WhatsApp Group: <a href="https://chat.whatsapp.com/HBkOHBgd1M2FlTJFr582Uj" target="_blank">Click here to join</a></p>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2025 Ethical Hacking Hub. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
